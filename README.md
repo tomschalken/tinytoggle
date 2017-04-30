@@ -9,7 +9,7 @@ One or more comma separated class names that will be toggled on the toggle targe
 
 `data-toggle-class="foo, bar, boz"`
 
-### 2) Add 'data-toggle-target' (recommended)
+### 2) Add `data-toggle-target` (recommended)
 One or more comma separated CSS selectors on which classes will be toggled, e.g.:
 
 `data-toggle-target=".main-nav"`
@@ -18,7 +18,7 @@ One or more comma separated CSS selectors on which classes will be toggled, e.g.
 
 If omitted, classes will be toggled on the toggler itself.
 
-### 3) Add 'data-toggle-event' (optional)
+### 3) Add `data-toggle-event` (optional)
 One or more comma separated events on which toggling should take place, defaults to `click`.
 
 `data-toggle-event="change"`
