@@ -26,7 +26,7 @@ One or more comma separated events on which toggling should take place, defaults
 `data-toggle-event="mouseover, mouseout"`
 
 ## Example
-```
+```html
 <body>
     <header class="header">
         <button type="button" class="main-menu__toggle" data-toggle-class="menu-open" data-toggle-target="body">
